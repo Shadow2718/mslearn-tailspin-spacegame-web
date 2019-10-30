@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/TailSpin271828/Spcae%20Game%20-%20web/_apis/build/status/Shadow2718.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/TailSpin271828/Spcae%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
